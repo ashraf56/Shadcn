@@ -128,7 +128,7 @@ const Registerform = () => {
               <Button type="submit" className='w-full'>Sign up</Button>
               <div className="text-center">
                 <FormDescription>
-                  <span className=" text-black"> Or log in with social </span>
+                  <span className=" text-black uppercase" > Or Sign up with  </span>
 
                 </FormDescription>
               </div>

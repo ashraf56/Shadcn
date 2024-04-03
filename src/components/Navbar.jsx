@@ -5,7 +5,7 @@ import Link from 'next/link';
 const Navbar = () => {
     return (
         <div className='flex gap-5 p-3 items-center justify-center'>
-            <p>Navbar</p>
+
             <Button asChild>
                 <Link href={'/'}>Home</Link>
             </Button>

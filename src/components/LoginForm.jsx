@@ -79,7 +79,7 @@ const LoginForm = () => {
                             <Button type="submit" className='w-full'>Log in Now</Button>
                             <div className="text-center">
                                 <FormDescription>
-                                    <span className="text-black "> or log in with social </span>
+                                    <span className="text-black uppercase"> or log in with  </span>
 
                                 </FormDescription>
                             </div>
