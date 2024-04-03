@@ -1,15 +1,13 @@
-import { Button } from "@/components/ui/button";
-import Image from "next/image";
-import Link from "next/link";
+import DummyData from "@/components/DummyData";
 
-export default function Home() {
+
+export default  function Home () {
+ 
+  
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-
-      <Button asChild>
-        <Link href={'/register'}>Register</Link>
-      </Button>
-
+    
+<DummyData></DummyData>
     </main>
   );
 }

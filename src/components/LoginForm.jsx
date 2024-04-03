@@ -34,7 +34,7 @@ const LoginForm = () => {
             <Card>
                 <CardHeader>
                     <CardTitle>Log in Now</CardTitle>
-                    <CardDescription>auth Description</CardDescription>
+                    <CardDescription>Log in to access your personalized experience</CardDescription>
                 </CardHeader>
                 <CardContent>
                     <Form {...form}>

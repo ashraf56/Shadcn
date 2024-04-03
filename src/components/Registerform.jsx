@@ -34,7 +34,7 @@ const Registerform = () => {
       <Card>
         <CardHeader>
           <CardTitle>Register Now</CardTitle>
-          <CardDescription>user Description</CardDescription>
+          <CardDescription>sign up to join our vibrant community</CardDescription>
         </CardHeader>
         <CardContent>
           <Form {...form}>
