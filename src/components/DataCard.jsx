@@ -23,10 +23,7 @@ const DataCard = ({ d }) => {
                     <CardDescription>$ {d?.price}</CardDescription>
                     <CardDescription>{d?.description}</CardDescription>
                 </CardContent>
-                <CardFooter >
-                    <Button>View Detail</Button>
 
-                </CardFooter>
             </Card>
         </div>
     );
