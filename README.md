@@ -1,3 +1,3 @@
 ## SHADCn UI
 
-* shadcn is a beautiful  collections of React component.
+*  shadcn is a beautiful reusable component collection of React component.
