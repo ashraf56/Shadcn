@@ -15,6 +15,9 @@ const Navbar = () => {
             <Button asChild>
                 <Link href={'/login'}>Log in</Link>
             </Button>
+            <Button asChild>
+                <Link href={'/course'}>course</Link>
+            </Button>
         </div>
     );
 };
